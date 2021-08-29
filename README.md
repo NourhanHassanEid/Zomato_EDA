@@ -38,4 +38,8 @@ dataset features description
 
 - `listed_in(city)`:contains the neighborhood in which the restaurant is listed
 
- 
+**Geographical analysis** 
+Here is the heat map of the restaurants in Bengaluru.
+ ![the heat map of the resaurants in Bengaluru](https://github.com/NourhanHassanEid/Zomato_EDA/blob/main/restaurants%20heatmap.PNG)
+
+It is clear that restaurants tend to concentrate in central bangalore area. The clutter of restaurants lowers are we move away from central.
